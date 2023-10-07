@@ -1,9 +1,11 @@
-I'm Pedro Víctor, a studant of IT at UNIFOR - Universsity of Fortaleza.
-I'm trying to make my repositories in order to make my own workbook.
-My porpouse is to be a front-end dev. 
-I'm openend to recieve some advices about how trail this carrer.
+PT
+Eu sou Pedro Víctor, um estudante de Análise e Desenvolvimento de Sistemas da UNIFOR - Universidade de Fortaleza.
+Eu estou fazendo meus repositórios com intenção de ter um portifólio.
+Minha intenção é ser um desenvolvedor front-end, inicialmente.
+Eu estou aberto para receber conselhos sobre a trilha desta carreira.
 
-<!---
-PedroVictorMcB/PedroVictorMcB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+EN
+I'm Pedro Víctor, a student of System and Development, Analyses at UNIFOR - Universsity of Fortaleza.
+I'm trying to make my repositories in order to make my own workbook.
+My porpouse, in the begining, is to be a front-end dev. 
+I'm openend to recieve some advices about how trail this carrer.
